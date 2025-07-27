@@ -6,15 +6,6 @@ const path = require('path');
 const app = express();
 const server = http.createServer(app);
 const io = socketIO(server);
-const username = prompt("Enter your name:");
-
-form.addEventListener('submit', e => {
-  e.preventDefault();
-  if (input.value.trim()) {
-    socket.emit('chatMessage', `${username}: ${input.value}`);
-    input.value = '';
-  }
-});
 
 
 app.use(express.static(path.join(__dirname, 'public')));
