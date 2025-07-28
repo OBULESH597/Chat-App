@@ -35,7 +35,7 @@ This is a real-time chat application built as part of the **CODTECH Internship -
 
 ## 📸 Preview
 
-![App Preview](./preview.png)
+![App Preview](./Screenshot(2).png)
 
 ---
 
