@@ -9,8 +9,8 @@ This is a real-time chat application built as part of the **CODTECH Internship -
 - **Intern ID**: CT08DG2167  
 - **Internship Program**: Full Stack Web Development Internship  
 - **Organization**: [CODTECH Technologies](https://codtech.in)  
-- **Task Number**: Task-1 – Real Time Chat App  
-- **Project Title**: Weather Webpage using OpenWeatherMap API  
+- **Task Number**: Task 2
+- **Project Title**: Real-Time Chat Application
 - **Duration**: 17 June 2025 – 17 August 2025 
 ---
 
@@ -30,6 +30,12 @@ This is a real-time chat application built as part of the **CODTECH Internship -
 🌍 **Hosted Link**: [View Live App](https://chat-app-x6jf.onrender.com/)
 
 
+
+---
+
+## 📸 Preview
+
+![App Preview](./preview.png)
 
 ---
 
